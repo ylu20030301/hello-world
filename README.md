@@ -1,2 +1,3 @@
 # hello-world
-Hello World!
+**Hello World!**
+This is where our GitHub journey begin!
