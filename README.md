@@ -1,3 +1,3 @@
 # hello-world
-**Hello World!**
-This is where our GitHub journey begin!
+**Hello World!** Our GitHub journey begins here!
+(This is evidence of our first branch)
